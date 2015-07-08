@@ -1,9 +1,10 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Blog for Infosec Geeks
 locale:           en_US
 url:              http://localhost:4000
-url:              http://loh1.github.io
+#url:              http://www.infosecamigo.com
+#url:              //loh1.github.io
 
 
 # Jekyll configuration
@@ -27,9 +28,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Lohitha Perera
+  avatar: lohitha.jpg
+  bio: "Information Security Analyst by day Infosec Researcher by night also an IoT maker/builder"
   email:
   disqus-shortname:
   twitter: #username
