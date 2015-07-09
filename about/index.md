@@ -5,9 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: weakest-link.jpg
 ---
 
 Hey !! This blog is all about sharing my work with people who has the same interest. I hope readers will benefit from the posts that I have shared. You all  welcome to throw stones and flowers at me let comments help you there.  
